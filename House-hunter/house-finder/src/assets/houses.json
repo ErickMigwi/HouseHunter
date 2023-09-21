@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "image":"https://victormatara.com/wp-content/uploads/2017/11/List-Of-Cheapest-Places-to-Rent-in-Nairobi-if-you-Earn-Below-15000--1200x900.jpg",
+        "desc":"Single rooms,  water and electricity bill in inclusive in the rent, tight security",
+         "price":4000,
+         "deposit":4000,
+         "location":"somewhere"
+
+    },
+    {
+        
+        "id": 2,
+        "image":"https://mehboobah.files.wordpress.com/2014/04/apartments-image2.jpg",
+        "desc":"Bedsitters,  water and electricity bill not included in the rent, tight security, free wifi",
+         "price":6000,
+         "deposit": 6000,
+         "location":"Classic"
+
+    },
+    {
+        "id": 3,
+        "image":"https://mehboobah.files.wordpress.com/2014/04/apartments-image2.jpg",
+        "desc":"Bedsitters,  water and electricity bill not included in the rent, tight security, free wifi",
+         "price":6000,
+         "deposit": 6000,
+         "location":"Ruring'u"
+    },
+    {
+        "id": 4,
+        "image":"https://mehboobah.files.wordpress.com/2014/04/apartments-image2.jpg",
+        "desc":"Bedsitters,  water and electricity bill not included in the rent, tight security, free wifi",
+         "price":6000,
+         "deposit": 6000,
+         "location":"Ruring'u"
+    },
+    {
+        "id": 5,
+        "image":"https://mehboobah.files.wordpress.com/2014/04/apartments-image2.jpg",
+        "desc":"Bedsitters,  water and electricity bill not included in the rent, tight security, free wifi",
+         "price":6000,
+         "deposit": 6000,
+         "location":"Ruring'u"
+    },
+    {
+        "id": 6,
+        "image":"https://mehboobah.files.wordpress.com/2014/04/apartments-image2.jpg",
+        "desc":"Bedsitters,  water and electricity bill not included in the rent, tight security, free wifi",
+         "price":6000,
+         "deposit": 6000,
+         "location":"Ruring'u"
+    },
+    {
+        "id": 7,
+        "image":"https://mehboobah.files.wordpress.com/2014/04/apartments-image2.jpg",
+        "desc":"Bedsitters,  water and electricity bill not included in the rent, tight security, free wifi",
+         "price":6000,
+         "deposit": 6000,
+         "location":"Ruring'u"
+    },
+    {
+        "id": 8,
+        "image":"https://mehboobah.files.wordpress.com/2014/04/apartments-image2.jpg",
+        "desc":"Bedsitters,  water and electricity bill not included in the rent, tight security, free wifi",
+         "price":6000,
+         "deposit": 6000,
+         "location":"Ruring'u"
+    }
+
+]
